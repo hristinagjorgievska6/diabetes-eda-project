@@ -19,10 +19,10 @@ What i did in this project? :
 - Explored value counts and checked min/max values
 - Filled missing values using the median
 
-  Technologies used:
-  - Python
-  - Pandas
-  - numpy
+Technologies used:
+- Python
+- Pandas
+- numpy
 
 The goal of this project was to practice:
 - data cleaning
